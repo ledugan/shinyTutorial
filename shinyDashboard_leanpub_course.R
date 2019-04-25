@@ -306,7 +306,7 @@ body <-  dashboardBody(
             )
     ),
     tabItem(tabName = "budget",
-            "Tax money spending"
+            "Home projects budget"
     )
   ),
   textOutput("love_question")
