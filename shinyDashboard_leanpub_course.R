@@ -266,7 +266,7 @@ header <- dashboardHeader(
     ),
     taskItem(
       text = "Operation Landscape Front Yard",
-      value = 10,
+      value = 65,
       color = "green"
     ),
     taskItem(
